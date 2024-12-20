@@ -2,6 +2,10 @@
 
 Welcome to AI Meme Factory - The World's First Generative Meme Engine! Create unique, funny, and non-offensive memes using the power of AI.
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sallumandya1995/meme_factory/main/demo.png" alt="AI Meme Factory Demo"/>
+</div>
+
 ## 🌟 Demo
 
 Try it out here:
