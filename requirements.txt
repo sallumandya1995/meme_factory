@@ -1,0 +1,6 @@
+fal_client
+fastapi
+python-dotenv
+uvicorn
+gradio
+openai
